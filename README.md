@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yamuna R</h1>
-<h3 align="center">Aspiring Full-Stack Developer , UI/UX Designer</h3>
+<h3 align="center"> Aspiring UI/UX Designer and Front End Developer</h3>
 
 
 
